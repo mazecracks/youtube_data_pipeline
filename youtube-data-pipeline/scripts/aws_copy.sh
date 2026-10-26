@@ -1,0 +1,1 @@
+aws s3 cp CAVideos.csv s3://yutube-bronze-buckett/raw_statistics/region=ca

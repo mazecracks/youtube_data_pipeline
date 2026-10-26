@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+*.pem
+*.key
+
+# macOS
+.DS_Store
+
+# Future dbt generated files
+target/
+dbt_packages/
+logs/
+
+setup_guide.txt
+
+jobs/configs.py
+
+
+
+AWSCLIV2.pkg
